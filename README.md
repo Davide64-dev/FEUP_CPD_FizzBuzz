@@ -1,4 +1,6 @@
-# CPD - Second Assign
+# Distributed Computing Project
+
+The development of this program is part of the curriculum for [Parallel and Distributed Computing](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520333) course.
 
 ## Run Server
 
